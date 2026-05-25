@@ -22,4 +22,5 @@ cp .env.example .env.local  # Fill in your keys
 npm run dev
 ```
 
+git  command  test 
 Open [http://localhost:3000](http://localhost:3000) to view the app.
