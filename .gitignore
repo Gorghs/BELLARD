@@ -1,0 +1,22 @@
+# General
+.env
+.env.*
+!.env.example
+
+# Python / Backend
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+cache/
+
+# Node / Frontend (also handled by frontend/.gitignore)
+node_modules/
+.next/
+out/
+build/
+.vercel/
+*.tsbuildinfo
+
+# Mac
+.DS_Store
